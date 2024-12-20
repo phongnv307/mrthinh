@@ -1,0 +1,50 @@
+﻿.nav-wp .h-search-wp .search-bl .dropdown-menu button {
+  position: absolute;
+  right: 10px;
+  top: 0px;
+  bottom: 0;
+  width: 40px;
+  text-align: center;
+  border: 0;
+  background: transparent;
+  color: #555;
+  cursor: pointer;
+}
+.product-detail-tab .tab-content .tab-info table {
+  border-collapse: collapse;
+}
+.product-detail-tab .tab-content .tab-info table {
+  width: 100%;
+  margin-bottom: 1rem;
+  background-color: transparent;
+}
+.product-detail-tab .tab-content .tab-info table td,
+.product-detail-tab .tab-content .tab-info table th {
+  padding: 0.75rem;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+}
+.product-detail-tab .tab-content .tab-info table thead th {
+  vertical-align: bottom;
+  border-bottom: 2px solid #dee2e6;
+}
+.product-detail-tab .tab-content .tab-info table tbody + tbody {
+  border-top: 2px solid #dee2e6;
+}
+.product-detail-tab .tab-content .tab-info table {
+  background-color: #fff;
+}
+.product-detail-tab .tab-content .tab-info table {
+  border: 1px solid #dee2e6;
+}
+.product-detail-tab .tab-content .tab-info table td,
+.product-detail-tab .tab-content .tab-info table th {
+  border: 1px solid #dee2e6;
+}
+.product-detail-tab .tab-content .tab-info table thead td,
+.product-detail-tab .tab-content .tab-info table thead th {
+  border-bottom-width: 2px;
+}
+.product-detail-tab .tab-content .tab-info table tbody tr:nth-of-type(odd) {
+  background-color: rgba(0, 0, 0, 0.05);
+}
